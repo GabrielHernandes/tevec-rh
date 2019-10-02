@@ -1,0 +1,56 @@
+[
+    {
+        "input": {
+            "request": {
+                "userID": 837495729487834,
+                "request": 120
+            }
+        },
+        "output": {
+            "requester": {
+                "userID": 837495729487834,
+                "requested": 120
+            },
+            "response": {
+                "20": 1,
+                "50": 2
+            }
+        }
+    },
+    {
+        "input": {
+            "request": {
+                "userID": 837495729487834,
+                "request": 90
+            }
+        },
+        "output": {
+            "requester": {
+                "userID": 837495729487834,
+                "requested": 90
+            },
+            "response": {
+                "20": 2,
+                "50": 1
+            }
+        }
+    },
+    {
+        "input": {
+            "request": {
+                "userID": 837495729487834,
+                "request": 1060
+            }
+        },
+        "output": {
+            "requester": {
+                "userID": 837495729487834,
+                "requested": 1060
+            },
+            "response": {
+                "20": 3,
+                "50": 20
+            }
+        }
+    }
+]

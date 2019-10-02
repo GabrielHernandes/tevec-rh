@@ -2,7 +2,7 @@
 
 # Objetivo
 
-Essa dinamica foi elaborada para avaliar o grau de maturidade do candidato a vaga de análise e desenvolvimento da Tevec;  
+Essa dinâmica foi elaborada para avaliar o grau de maturidade do candidato a vaga de análise e desenvolvimento da Tevec;  
 Avaliaremos:
 - Sua habilidade em compreender problemas de negócio;
 - Habilidade de comunicação com time técnico e usuário final;
@@ -17,7 +17,7 @@ Avaliaremos:
 - Habilidade em TDD;
 - Legibilidade do código;
 
-Será um diferencial caso a solução utilize redux (rxjs) em suas transações, contenha qualidade de aparencias e comportamento, seja bem documentada e utilize TDD;
+Será um diferencial caso a solução utilize redux (rxjs) em suas transações, contenha qualidade de aparências e comportamento, seja bem documentada e utilize TDD;
 
 # Questionário
 
@@ -36,7 +36,7 @@ No documento especificacao.docx, elabore uma breve especificação que gere insu
 
 ## 3ª Questão
 
-Proponha uma arquitetura de infraestrutura para hospedagem dessa solução na nuvem, considerando o conteúdo statico, banco de dados e publicação da API;
+Proponha uma arquitetura de infraestrutura para hospedagem dessa solução na nuvem, considerando o conteúdo estático, banco de dados e publicação da API;
 
 ## 4ª Questão
 
@@ -50,7 +50,7 @@ No projeto atm-api crie:
 No projeto atm-api crie um CLI que permita executar chamadas aos metodos da API via console.
 
 ## 6ª Questão
-No projeto atm-ui crie uma página para que o usuário iteraja com o caixa eletronico, contendo uma caixa de entrada para informar a quantidade que deseja sacar e um botão sacar, para efetivar a transação.   
-Ao efetivar a transação o sistema deverá enviar a requisição para a api, calcular o número de notas necessarios e exibir a resposta em tela.  
+No projeto atm-ui crie uma página para que o usuário iteraja com o caixa eletrônico, contendo uma caixa de entrada para informar a quantidade que deseja sacar e um botão sacar, para efetivar a transação.   
+Ao efetivar a transação o sistema deverá enviar a requisição para a api, calcular o número de notas necessários e exibir a resposta em tela.  
 O sistema também deverá atualizar o histórico de transaçãoes e exibir as 10 últimas transações efetuadas.
 Os erros devem ser tratados e notificados de forma amigável ao usuário final.
