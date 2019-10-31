@@ -1,0 +1,10 @@
+Ao  dia  trinta e um  do  mês  de  outubro do  ano  de  dois  mi l  e  dezenove,  às  treze  horas  e cinquenta  minutos , 
+na  sala x  do  edifício y em São Paulo, os  participantes  (Gabriel: desenvolvedor,Carlos:cliente), 
+reuniram-se  a  fim  de  discutir  o desenvolvimento de um software que simule um caixa eletronico. 
+Para início da discussão,Carlos queria um software que recebesse um valor a ser sacado e exibisse na tela o menor numeros de notas
+de R$ 20,00 e R$ 50,00 a serem emitidas.Para isso Gabriel sugeriu que utilizasse a linguagem java para o desenvolvimento do software 
+pois Carlos queria um software que fosse plataforma independente e JRE tornaria isso possível.Para o desenvolvimento do software Gabriel 
+sugeriu que lógica fosse da seguinte forma:o programa leria o valor a ser sacado e decomporia o menor número que o valor pode ser 
+decomposto em notas de 50 e 20 e imprimiria na tela.Carlos perguntou como faria a interface do cliente e que Gabriel disse que para isso
+recomendaria swing que é widget toolkit GUI.
+Depois de alguns debates e propostas,foi decidido desenvolver o software dessa forma.
