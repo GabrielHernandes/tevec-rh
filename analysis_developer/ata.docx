@@ -1,9 +1,10 @@
 Ao  dia  trinta e um  do  mês  de  outubro do  ano  de  dois  mi l  e  dezenove,  às  treze  horas  e cinquenta  minutos , 
 na  sala x  do  edifício y em São Paulo, os  participantes  (Gabriel: desenvolvedor,Carlos:cliente), 
-reuniram-se  a  fim  de  discutir  o desenvolvimento de um software que simule um caixa eletronico. 
+reuniram-se  a  fim  de  discutir  o desenvolvimento de um software que simule um caixa eletrônico. 
 Para início da discussão,Carlos queria um software que recebesse um valor a ser sacado e exibisse na tela o menor numeros de notas
-de R$ 20,00 e R$ 50,00 a serem emitidas.Para isso Gabriel sugeriu que utilizasse a linguagem javascript para o desenvolvimento do software 
-pois Carlos queria um software que fosse plataforma independente e node.js tornaria isso possível.Para o desenvolvimento do software Gabriel 
-sugeriu que lógica fosse da seguinte forma:o programa leria o valor a ser sacado e decomporia o menor número que o valor pode ser 
-decomposto em notas de 50 e 20 e imprimiria na tela.
+de R$ 20,00 e R$ 50,00 a serem emitidas.Para isso Gabriel sugeriu utilizar a linguagem python pois ela possui um design orientado a 
+objetos limpo, fornece recursos aprimorados de controle de processo e possui fortes recursos de integração e processamento de texto e sua
+própria estrutura de teste de unidade, os quais contribuem para o aumento de sua velocidade e produtividade.Para o desenvolvimento do 
+software Gabriel sugeriu que lógica fosse da seguinte forma:o programa leria o valor a ser sacado e decomporia o menor número que o valor 
+pode ser decomposto em notas de 50 e 20 e imprimiria na tela.
 Depois de alguns debates e propostas,foi decidido desenvolver o software dessa forma.
